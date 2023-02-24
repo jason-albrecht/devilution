@@ -1,5 +1,7 @@
 ## Notice
 
+##json custom change
+
 ### I've been hard at work for two years revamping Diablo from the ground up to bring you the most sinister creation yet. Stay tuned for the public release >;)
 
 ## About
